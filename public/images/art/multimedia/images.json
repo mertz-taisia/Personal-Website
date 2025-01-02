@@ -1,0 +1,28 @@
+{
+    "slides": [
+      {
+        "src": "/images/art/multimedia/im1.png",
+        "alt": "Image 1 for carousel"
+      },
+      {
+        "src": "/images/art/multimedia/im2.png",
+        "alt": "Image 2 for carousel"
+      },
+      {
+        "src": "/images/art/multimedia/im3.png",
+        "alt": "Image 3 for carousel"
+      },
+      {
+        "src": "/images/art/multimedia/im4.png",
+        "alt": "Image 4 for carousel"
+      },
+      {
+        "src": "/images/art/multimedia/im5.png",
+        "alt": "Image 5 for carousel"
+      },
+      {
+        "src": "/images/art/multimedia/im6.png",
+        "alt": "Image 6 for carousel"
+      }
+    ]
+  }

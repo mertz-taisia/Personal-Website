@@ -1,0 +1,56 @@
+{
+    "slides": [
+      {
+        "src": "/images/art/design/im1.png",
+        "alt": "Image 1 for carousel"
+      },
+      {
+        "src": "/images/art/design/im2.jpg",
+        "alt": "Image 2 for carousel"
+      },
+      {
+        "src": "/images/art/design/im3.jpg",
+        "alt": "Image 3 for carousel"
+      },
+      {
+        "src": "/images/art/design/im4.jpg",
+        "alt": "Image 4 for carousel"
+      },
+      {
+        "src": "/images/art/design/im5.jpg",
+        "alt": "Image 5 for carousel"
+      },
+      {
+        "src": "/images/art/design/im6.jpg",
+        "alt": "Image 6 for carousel"
+      },
+      {
+        "src": "/images/art/design/im7.jpg",
+        "alt": "Image 7 for carousel"
+      },
+      {
+        "src": "/images/art/design/im8.jpg",
+        "alt": "Image 8 for carousel"
+      },
+      {
+        "src": "/images/art/design/im9.jpg",
+        "alt": "Image 9 for carousel"
+      },
+      {
+        "src": "/images/art/design/im10.jpg",
+        "alt": "Image 10 for carousel"
+      },
+      {
+        "src": "/images/art/design/im11.jpg",
+        "alt": "Image 11 for carousel"
+      },
+      {
+        "src": "/images/art/design/im12.jpg",
+        "alt": "Image 12 for carousel"
+      },
+      {
+        "src": "/images/art/design/im13.jpg",
+        "alt": "Image 13 for carousel"
+      }
+    ]
+  }

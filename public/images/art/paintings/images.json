@@ -1,0 +1,56 @@
+{
+    "slides": [
+      {
+        "src": "/images/art/paintings/pomegranates.png ",
+        "alt": "Image 1 for carousel"
+      },
+      {
+        "src": "/images/art/paintings/london.png",
+        "alt": "Image 1 for carousel"
+      },
+      {
+        "src": "/images/art/paintings/storm.png",
+        "alt": "Image 2 for carousel"
+      },
+      {
+        "src": "/images/art/paintings/lighthouse.png",
+        "alt": "Image 3 for carousel"
+      },
+      {
+        "src": "/images/art/paintings/flowers.png",
+        "alt": "Image 4 for carousel"
+      },
+      {
+        "src": "/images/art/paintings/oranges.png",
+        "alt": "Image 5 for carousel"
+      },
+      {
+        "src": "/images/art/paintings/castle.png",
+        "alt": "Image 6 for carousel"
+      },
+      {
+        "src": "/images/art/paintings/sky.png",
+        "alt": "Image 7 for carousel"
+      },
+      {
+        "src": "/images/art/paintings/powerlines.png",
+        "alt": "Image 8 for carousel"
+      },
+      {
+        "src": "/images/art/paintings/croc.png",
+        "alt": "Image 9 for carousel"
+      },
+      {
+        "src": "/images/art/paintings/santorini.png",
+        "alt": "Image 10 for carousel"
+      },
+      {
+        "src": "/images/art/paintings/paris.png",
+        "alt": "Image 11 for carousel"
+      },
+      {
+        "src": "/images/art/paintings/venice.png",
+        "alt": "Image 12 for carousel"
+      }
+    ]
+  }
